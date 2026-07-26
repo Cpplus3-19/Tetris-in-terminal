@@ -1,3 +1,4 @@
+<img width="164" height="326" alt="tetrisDemo" src="https://github.com/user-attachments/assets/2a989f8b-73a3-4889-9255-f2ec92b470c6" />
 'r' to rotate pieces
 'a' to go right
 'd' left
