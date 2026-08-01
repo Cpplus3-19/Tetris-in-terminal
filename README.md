@@ -2,7 +2,10 @@
 
 # 🎮 TETRIS!
 
-   
+
+
+
+Hello , this is a tetris game in terminal, no libraries just c++ !   
 'r' to rotate pieces
 'a' to go right
 'd' left
@@ -13,5 +16,7 @@ The speed is increasing with every line done and score
 PS : For now there is only 2 type of pieces. 
 1.every pieces is a matrix 
 2.You can add a new piece by adding a matrix with 4 option for rotion
+
+P.P.S this is a part of school project( learn more about in "contributors")
 
 Enjoy!
